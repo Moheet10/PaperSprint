@@ -1,0 +1,12 @@
+# node / react
+node_modules
+dist
+build
+
+# env & local
+.env
+.env.*
+.DS_Store
+
+# misc
+.vscode
